@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1465511812 source:h:\codex\2048game\main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<vector>
+	<stdlib.h>
+	"upperShift.h"
+	"random.h"
+	"print.h"
+	"leftShift.h"
+	"rightShift.h"
+	"lowerShift.h"
+
+1465511812 t.h"
+
+1465512406 h:\codex\2048game\print.h
+	<stdio.h>
+	<iostream>
+
+1465506889 
+
+1465457958 h:\codex\2048game\leftshift.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1465506768 h:\codex\2048game\rightshift.h
+	<stdio.h>
+	<stdlib.h>
+
+1465507540 h:\codex\2048game\lowershift.h
+	<stdio.h>
+
+1465457632 h:\codex\2048game\random.h
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+
+1465506889 h:\codex\2048game\uppershift.h
+	<stdio.h>
+
+1497889094 source:/home/nitin/D Drive /CodeX/Cranes Program/codeX/2048Game/main.cpp
+	<iostream>
+	<stdio.h>
+	<time.h>
+	<vector>
+	<stdlib.h>
+	"upperShift.h"
+	"random.h"
+	"print.h"
+	"leftShift.h"
+	"rightShift.h"
+	"lowerShift.h"
+
+1465503289 /home/nitin/D Drive /CodeX/Cranes Program/codeX/2048Game/upperShift.h
+	<stdio.h>
+
+1465454032 /home/nitin/D Drive /CodeX/Cranes Program/codeX/2048Game/random.h
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+
+1465508806 /home/nitin/D Drive /CodeX/Cranes Program/codeX/2048Game/print.h
+	<stdio.h>
+	<iostream>
+
+1465454358 /home/nitin/D Drive /CodeX/Cranes Program/codeX/2048Game/leftShift.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1465503168 /home/nitin/D Drive /CodeX/Cranes Program/codeX/2048Game/rightShift.h
+	<stdio.h>
+	<stdlib.h>
+
+1465503940 /home/nitin/D Drive /CodeX/Cranes Program/codeX/2048Game/lowerShift.h
+	<stdio.h>
+
